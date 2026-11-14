@@ -203,4 +203,4 @@ This repository serves as the official landing page for Everwarder. The software
 **Get the most recent version of Everwarder today!**
 
 ---
-**Last updated:** 2026-11-14 07:22:14 UTC
+**Last updated:** 2026-11-14 14:46:40 UTC
